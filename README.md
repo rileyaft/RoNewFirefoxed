@@ -3,12 +3,12 @@
     <img alt="RoNew" src="assets/logo_light.png#gh-light-mode-only" width="300px"></img>
     </p>
 <p align="center">
-In a single click, join the newest server of any Roblox experience!</p>
+In a single click, join the newest server of any Roblox experience!, Now with Firefox compatibility!</p>
 </p>
 
 <div align="center">
 
-[![Chrome Extension](https://img.shields.io/chrome-web-store/v/kocjbdahjmgeecieicmoffnjgboechih?label=Chrome%20web%20store&style=for-the-badge&cacheSeconds=3600&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R29vZ2xlIENocm9tZTwvdGl0bGU+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAwQzguMjEgMCA0LjgzMSAxLjc1NyAyLjYzMiA0LjUwMWwzLjk1MyA2Ljg0OEE1LjQ1NCA1LjQ1NCAwIDAgMSAxMiA2LjU0NWgxMC42OTFBMTIgMTIgMCAwIDAgMTIgMHpNMS45MzEgNS40N0ExMS45NDMgMTEuOTQzIDAgMCAwIDAgMTJjMCA2LjAxMiA0LjQyIDEwLjk5MSAxMC4xODkgMTEuODY0bDMuOTUzLTYuODQ3YTUuNDUgNS40NSAwIDAgMS02Ljg2NS0yLjI5em0xMy4zNDIgMi4xNjZhNS40NDYgNS40NDYgMCAwIDEgMS40NSA3LjA5bC4wMDIuMDAxaC0uMDAybC01LjM0NCA5LjI1N2MuMjA2LjAxLjQxMy4wMTYuNjIxLjAxNiA2LjYyNyAwIDEyLTUuMzczIDEyLTEyIDAtMS41NC0uMjktMy4wMTEtLjgxOC00LjM2NHpNMTIgMTYuMzY0YTQuMzY0IDQuMzY0IDAgMSAxIDAtOC43MjggNC4zNjQgNC4zNjQgMCAwIDEgMCA4LjcyOFoiIC8+PC9zdmc+)](https://chrome.google.com/webstore/detail/ronew/kocjbdahjmgeecieicmoffnjgboechih)
+[![Firefox Addon](https://img.shields.io/amo/v/ronewported?logo=Firefox&style=for-the-badge;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+RmlyZWZveDwvdGl0bGU+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAwQzguMjEgMCA0LjgzMSAxLjc1NyAyLjYzMiA0LjUwMWwzLjk1MyA2Ljg0OEE1LjQ1NCA1LjQ1NCAwIDAgMSAxMiA2LjU0NWgxMC42OTFBMTIgMTIgMCAwIDAgMTIgMHpNMS45MzEgNS40N0ExMS45NDMgMTEuOTQzIDAgMCAwIDAgMTJjMCA2LjAxMiA0LjQyIDEwLjk5MSAxMC4xODkgMTEuODY0bDMuOTUzLTYuODQ3YTUuNDUgNS40NSAwIDAgMS02Ljg2NS0yLjI5em0xMy4zNDIgMi4xNjZhNS40NDYgNS40NDYgMCAwIDEgMS40NSA3LjA5bC4wMDIuMDAxaC0uMDAybC01LjM0NCA5LjI1N2MuMjA2LjAxLjQxMy4wMTYuNjIxLjAxNiA2LjYyNyAwIDEyLTUuMzczIDEyLTEyIDAtMS41NC0uMjktMy4wMTEtLjgxOC00LjM2NHpNMTIgMTYuMzY0YTQuMzY0IDQuMzY0IDAgMSAxIDAtOC43MjggNC4zNjQgNC4zNjQgMCAwIDEgMCA4LjcyOFoiIC8+PC9zdmc+)](https://addons.mozilla.org/en-CA/firefox/addon/ronewported/)
 [![Video Demo](https://img.shields.io/badge/Video%20Demo-0%3A54-red?style=for-the-badge&logo=youtube&cacheSeconds=3600)](https://youtu.be/vICtZTxcwFE)
 
 </div>
