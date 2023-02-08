@@ -44,23 +44,35 @@ This extension allows you to automatically join the newest server of a Roblox ex
 
 ## Through the Firefox Addon Library
 
-Click the button below, and then click 'Add to Firefox'
+Click the button below, and then click `Add to Firefox`
 
-[![Firefox Addon](https://img.shields.io/amo/v/ronewported?logo=firefox&style=for-the-badge;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+RmlyZWZveDwvdGl0bGU+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAwQzguMjEgMCA0LjgzMSAxLjc1NyAyLjYzMiA0LjUwMWwzLjk1MyA2Ljg0OEE1LjQ1NCA1LjQ1NCAwIDAgMSAxMiA2LjU0NWgxMC42OTFBMTIgMTIgMCAwIDAgMTIgMHpNMS45MzEgNS40N0ExMS45NDMgMTEuOTQzIDAgMCAwIDAgMTJjMCA2LjAxMiA0LjQyIDEwLjk5MSAxMC4xODkgMTEuODY0bDMuOTUzLTYuODQ3YTUuNDUgNS40NSAwIDAgMS02Ljg2NS0yLjI5em0xMy4zNDIgMi4xNjZhNS40NDYgNS40NDYgMCAwIDEgMS40NSA3LjA5bC4wMDIuMDAxaC0uMDAybC01LjM0NCA5LjI1N2MuMjA2LjAxLjQxMy4wMTYuNjIxLjAxNiA2LjYyNyAwIDEyLTUuMzczIDEyLTEyIDAtMS41NC0uMjktMy4wMTEtLjgxOC00LjM2NHpNMTIgMTYuMzY0YTQuMzY0IDQuMzY0IDAgMSAxIDAtOC43MjggNC4zNjQgNC4zNjQgMCAwIDEgMCA4LjcyOFoiIC8+PC9zdmc+)](https://addons.mozilla.org/en-CA/firefox/addon/ronewported/)
+[![Firefox Addon]([https://img.shields.io/amo/v/ronewported?logo=firefox&style=for-the-badge](https://img.shields.io/amo/v/ronewported?logo=Firefox&style=for-the-badge&cacheSeconds=3600$label=Firefox%20Addon%20Library);base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+RmlyZWZveDwvdGl0bGU+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAwQzguMjEgMCA0LjgzMSAxLjc1NyAyLjYzMiA0LjUwMWwzLjk1MyA2Ljg0OEE1LjQ1NCA1LjQ1NCAwIDAgMSAxMiA2LjU0NWgxMC42OTFBMTIgMTIgMCAwIDAgMTIgMHpNMS45MzEgNS40N0ExMS45NDMgMTEuOTQzIDAgMCAwIDAgMTJjMCA2LjAxMiA0LjQyIDEwLjk5MSAxMC4xODkgMTEuODY0bDMuOTUzLTYuODQ3YTUuNDUgNS40NSAwIDAgMS02Ljg2NS0yLjI5em0xMy4zNDIgMi4xNjZhNS40NDYgNS40NDYgMCAwIDEgMS40NSA3LjA5bC4wMDIuMDAxaC0uMDAybC01LjM0NCA5LjI1N2MuMjA2LjAxLjQxMy4wMTYuNjIxLjAxNiA2LjYyNyAwIDEyLTUuMzczIDEyLTEyIDAtMS41NC0uMjktMy4wMTEtLjgxOC00LjM2NHpNMTIgMTYuMzY0YTQuMzY0IDQuMzY0IDAgMSAxIDAtOC43MjggNC4zNjQgNC4zNjQgMCAwIDEgMCA4LjcyOFoiIC8+PC9zdmc+)](https://addons.mozilla.org/en-CA/firefox/addon/ronewported/)
 
 Once added, you'll have to follow some additional steps.
 <details>
 <summary>Steps</summary>
+<div align="center">
+    
+First click on the `Extension Icon` at the top right of your browser.
 
 ![Screenshot](assets/screenshots/6.png)
 
+Now scroll down to `RoNew`.
+
 ![Screenshot](assets/screenshots/7.png)
+    
+Click on the `Gear icon`.
 
 ![Screenshot](assets/screenshots/8.png)
+
+For `13+` users, click `Always Allow on www.roblox.com`.
+For `<13` users, click on `Always allow on web.roblox.com`.
 
 ![Screenshot](assets/screenshots/9.png)
 
 Enjoy!
+</div>
+
 </details>
 <br>
 
