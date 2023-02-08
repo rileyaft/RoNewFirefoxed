@@ -50,21 +50,19 @@ Click the button below, and then click 'Add to Firefox'
 
 Once added, you'll have to follow some additional steps.
 <details>
-<summary>Steps to follow<summary/>
+<summary>Steps</summary>
 
-Click on the extensions icon
 ![Screenshot](assets/screenshots/6.png)
 
-Scroll down to RoNew
 ![Screenshot](assets/screenshots/7.png)
 
-Click the options icon
 ![Screenshot](assets/screenshots/8.png)
 
-Click 'Always Allow on www.roblox.com', or if your account is <13, click 'Always Allow on web.roblox.com'
 ![Screenshot](assets/screenshots/9.png)
 
 Enjoy!
+</details>
+<br>
 
 # Usage
 
