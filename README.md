@@ -70,3 +70,7 @@ Please include as much detail as possible, such as what you did to get the issue
 # License
 
 See [LICENSE.md](LICENSE.md)
+
+# Footnote
+
+Hi! This is a fork of the original chrome extension, all i've done is modify the manifest.json to make it firefox compatible. If you'd like to contact me, feel free to drop me an email at 'riley.aft@outlook.com'. Thanks!
