@@ -18,6 +18,8 @@ In a single click, join the newest server of any Roblox experience, Now firefox 
 
 The extension is still undergoing the mozilla review process. I'll update the readme once it is online.
 
+---
+
 This extension allows you to automatically join the newest server of a Roblox experience, by waiting for the newest server to show up.
 
 # Features
