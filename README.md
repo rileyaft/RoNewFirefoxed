@@ -49,6 +49,22 @@ Click the button below, and then click 'Add to Firefox'
 [![Firefox Addon](https://img.shields.io/amo/v/ronewported?logo=firefox&style=for-the-badge;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+RmlyZWZveDwvdGl0bGU+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAwQzguMjEgMCA0LjgzMSAxLjc1NyAyLjYzMiA0LjUwMWwzLjk1MyA2Ljg0OEE1LjQ1NCA1LjQ1NCAwIDAgMSAxMiA2LjU0NWgxMC42OTFBMTIgMTIgMCAwIDAgMTIgMHpNMS45MzEgNS40N0ExMS45NDMgMTEuOTQzIDAgMCAwIDAgMTJjMCA2LjAxMiA0LjQyIDEwLjk5MSAxMC4xODkgMTEuODY0bDMuOTUzLTYuODQ3YTUuNDUgNS40NSAwIDAgMS02Ljg2NS0yLjI5em0xMy4zNDIgMi4xNjZhNS40NDYgNS40NDYgMCAwIDEgMS40NSA3LjA5bC4wMDIuMDAxaC0uMDAybC01LjM0NCA5LjI1N2MuMjA2LjAxLjQxMy4wMTYuNjIxLjAxNiA2LjYyNyAwIDEyLTUuMzczIDEyLTEyIDAtMS41NC0uMjktMy4wMTEtLjgxOC00LjM2NHpNMTIgMTYuMzY0YTQuMzY0IDQuMzY0IDAgMSAxIDAtOC43MjggNC4zNjQgNC4zNjQgMCAwIDEgMCA4LjcyOFoiIC8+PC9zdmc+)](https://addons.mozilla.org/en-CA/firefox/addon/ronewported/)
 
 Once added, you'll have to follow some additional steps.
+<details>
+<summary>Steps to follow<summary/>
+
+Click on the extensions icon
+![Screenshot](assets/screenshots/6.png)
+
+Scroll down to RoNew
+![Screenshot](assets/screenshots/7.png)
+
+Click the options icon
+![Screenshot](assets/screenshots/8.png)
+
+Click 'Always Allow on www.roblox.com', or if your account is <13, click 'Always Allow on web.roblox.com'
+![Screenshot](assets/screenshots/9.png)
+
+Enjoy!
 
 # Usage
 
